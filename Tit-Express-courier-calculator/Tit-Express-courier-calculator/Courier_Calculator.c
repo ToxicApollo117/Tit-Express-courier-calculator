@@ -27,7 +27,7 @@ int main()
 	collateral = conver(colarr, count2);
 
 	int location;
-	printf("Select Starting Location: \n Press 1. for Jita \n Press 2. for Obe \n Press 3 for Q-EHMJ\nEnter Location:");
+	printf("Select Starting Location: \n Press 1. for Jita \n Press 2. for Obe \n Press 3. for Q-EHMJ\nEnter Location:");
 	scanf("%i", &location);
 	int multiplyer;
 
