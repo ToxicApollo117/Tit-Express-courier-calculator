@@ -77,7 +77,7 @@ double conver(char dataset[], int size)
 			decCounter++;
 		}
 
-		else if (dataset[a] == ',') {}
+		else {}
 	}
 	return output;
 }
