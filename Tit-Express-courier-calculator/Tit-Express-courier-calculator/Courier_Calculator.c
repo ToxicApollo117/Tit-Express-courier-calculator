@@ -45,7 +45,7 @@ int main()
 	}
 	price = m3 * multiplyer + collateral * 0.03;
 
-	printf("final price from NSI: %.2lf \n", price);
+	printf("final price: %.2lf \n", price);
 	printf("Destination: NSI-MW - Stellar Core \n");
 	printf("Contract to: Tits Express");
 }
